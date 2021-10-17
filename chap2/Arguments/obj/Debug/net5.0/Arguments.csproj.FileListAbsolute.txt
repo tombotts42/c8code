@@ -1,0 +1,16 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\bin\Debug\net5.0\Arguments.exe
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\bin\Debug\net5.0\Arguments.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\bin\Debug\net5.0\Arguments.runtimeconfig.dev.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\bin\Debug\net5.0\Arguments.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\bin\Debug\net5.0\ref\Arguments.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\bin\Debug\net5.0\Arguments.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\Arguments.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\Arguments.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\Arguments.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\ref\Arguments.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\Arguments.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap2\Arguments\obj\Debug\net5.0\Arguments.genruntimeconfig.cache

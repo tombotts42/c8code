@@ -1,0 +1,16 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\bin\Debug\net5.0\bits.exe
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\bin\Debug\net5.0\bits.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\bin\Debug\net5.0\bits.runtimeconfig.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\bin\Debug\net5.0\bits.runtimeconfig.dev.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\bin\Debug\net5.0\bits.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\bin\Debug\net5.0\ref\bits.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\bin\Debug\net5.0\bits.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\bits.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\bits.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\bits.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\bits.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\bits.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\ref\bits.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\bits.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\bits\obj\Debug\net5.0\bits.genruntimeconfig.cache

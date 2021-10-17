@@ -1,0 +1,16 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\bin\Debug\net5.0\except.exe
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\bin\Debug\net5.0\except.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\bin\Debug\net5.0\except.runtimeconfig.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\bin\Debug\net5.0\except.runtimeconfig.dev.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\bin\Debug\net5.0\except.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\bin\Debug\net5.0\ref\except.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\bin\Debug\net5.0\except.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\except.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\except.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\except.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\except.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\except.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\except.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\ref\except.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\except.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\except\obj\Debug\net5.0\except.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\HelloCS.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap1\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "peopleapp/1.0.0": {
+        "dependencies": {
+          "PacktLibrary": "1.0.0"
+        },
+        "runtime": {
+          "peopleapp.dll": {}
+        }
+      },
+      "PacktLibrary/1.0.0": {
+        "runtime": {
+          "PacktLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "peopleapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PacktLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

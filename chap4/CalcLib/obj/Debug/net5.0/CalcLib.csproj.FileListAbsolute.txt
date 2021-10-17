@@ -1,0 +1,12 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\bin\Debug\net5.0\CalcLib.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\bin\Debug\net5.0\CalcLib.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\bin\Debug\net5.0\ref\CalcLib.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\bin\Debug\net5.0\CalcLib.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\obj\Debug\net5.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\obj\Debug\net5.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\obj\Debug\net5.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\obj\Debug\net5.0\CalcLib.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\obj\Debug\net5.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\obj\Debug\net5.0\CalcLib.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\obj\Debug\net5.0\ref\CalcLib.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\CalcLib\obj\Debug\net5.0\CalcLib.pdb

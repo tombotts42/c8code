@@ -1,0 +1,16 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\bin\Debug\net5.0\iterate.exe
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\bin\Debug\net5.0\iterate.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\bin\Debug\net5.0\iterate.runtimeconfig.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\bin\Debug\net5.0\iterate.runtimeconfig.dev.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\bin\Debug\net5.0\iterate.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\bin\Debug\net5.0\ref\iterate.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\bin\Debug\net5.0\iterate.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\iterate.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\iterate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\iterate.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\iterate.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\iterate.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\iterate.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\ref\iterate.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\iterate.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\iterate\obj\Debug\net5.0\iterate.genruntimeconfig.cache

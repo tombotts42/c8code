@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "Operators"
+		},
+		{
+			"path": "Boolean"
+		},
+		{
+			"path": "bits"
+		},
+		{
+			"path": "select"
+		},
+		{
+			"path": "iterate"
+		},
+		{
+			"path": "casting"
+		},
+		{
+			"path": "execption"
+		},
+		{
+			"path": "overflow"
+		},
+		{
+			"path": "fizzbuzz"
+		},
+		{
+			"path": "except"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\bin\Debug\net5.0\writingfunc.exe
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\bin\Debug\net5.0\writingfunc.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\bin\Debug\net5.0\writingfunc.runtimeconfig.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\bin\Debug\net5.0\writingfunc.runtimeconfig.dev.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\bin\Debug\net5.0\writingfunc.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\bin\Debug\net5.0\ref\writingfunc.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\bin\Debug\net5.0\writingfunc.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\writingfunc.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\writingfunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\writingfunc.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\writingfunc.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\writingfunc.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\writingfunc.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\ref\writingfunc.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\writingfunc.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap4\writingfunc\obj\Debug\net5.0\writingfunc.genruntimeconfig.cache

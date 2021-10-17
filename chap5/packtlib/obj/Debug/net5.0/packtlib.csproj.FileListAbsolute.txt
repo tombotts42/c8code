@@ -1,0 +1,12 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\bin\Debug\net5.0\packtlib.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\bin\Debug\net5.0\packtlib.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\bin\Debug\net5.0\ref\packtlib.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\bin\Debug\net5.0\packtlib.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\obj\Debug\net5.0\packtlib.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\obj\Debug\net5.0\packtlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\obj\Debug\net5.0\packtlib.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\obj\Debug\net5.0\packtlib.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\obj\Debug\net5.0\packtlib.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\obj\Debug\net5.0\packtlib.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\obj\Debug\net5.0\ref\packtlib.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap5\packtlib\obj\Debug\net5.0\packtlib.pdb

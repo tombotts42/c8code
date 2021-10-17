@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "writingfunc"
+		},
+		{
+			"path": "debugging"
+		},
+		{
+			"path": "dumping"
+		},
+		{
+			"path": "Instrumenting"
+		},
+		{
+			"path": "CalcLib"
+		},
+		{
+			"path": "CalcLibTests"
+		}
+	]
+}

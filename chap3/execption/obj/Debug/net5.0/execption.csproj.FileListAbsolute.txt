@@ -1,0 +1,16 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\bin\Debug\net5.0\execption.exe
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\bin\Debug\net5.0\execption.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\bin\Debug\net5.0\execption.runtimeconfig.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\bin\Debug\net5.0\execption.runtimeconfig.dev.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\bin\Debug\net5.0\execption.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\bin\Debug\net5.0\ref\execption.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\bin\Debug\net5.0\execption.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\execption.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\execption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\execption.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\execption.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\execption.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\execption.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\ref\execption.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\execption.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\execption\obj\Debug\net5.0\execption.genruntimeconfig.cache

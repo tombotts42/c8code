@@ -1,0 +1,16 @@
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\bin\Debug\net5.0\casting.exe
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\bin\Debug\net5.0\casting.deps.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\bin\Debug\net5.0\casting.runtimeconfig.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\bin\Debug\net5.0\casting.runtimeconfig.dev.json
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\bin\Debug\net5.0\casting.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\bin\Debug\net5.0\ref\casting.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\bin\Debug\net5.0\casting.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\casting.csproj.AssemblyReference.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\casting.AssemblyInfoInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\casting.AssemblyInfo.cs
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\casting.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\ref\casting.dll
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\casting.pdb
+C:\Users\tbotts01\Documents\APPS\c8code\chap3\casting\obj\Debug\net5.0\casting.genruntimeconfig.cache
